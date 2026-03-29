@@ -15,6 +15,7 @@
 ### Языки и инструменты
 - C#
 - Visual Studio
+- Blender3D
 
 ### UI-разработка
 - WPF
